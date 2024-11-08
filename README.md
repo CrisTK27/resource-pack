@@ -1,0 +1,2 @@
+# resource-pack
+IsekaiTensei-Pack
